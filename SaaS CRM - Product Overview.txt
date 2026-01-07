@@ -1,0 +1,31 @@
+SaaS CRM – Product Overview
+1. Problem Statement
+Small sales teams struggle to:
+•	Track and manage leads efficiently across multiple channels
+•	Identify which leads are converting and why
+•	Maintain consistent and timely follow-ups
+•	Analyze sales pipeline performance for better decision-making
+
+2. Target Users
+Primary Users
+1.	Sales Executive
+2.	Sales Manager
+Secondary Users
+3. Small Business Owner / Admin
+
+3. User Pain Points
+Sales Executive (The Hunter)
+•	Data Entry Fatigue: Spending ~30% of the workday manually updating spreadsheets instead of selling
+•	Context Switching: Losing lead context due to fragmented communication across email, WhatsApp, and LinkedIn
+•	Missed Quotas: Losing high-intent prospects because of missing or late follow-ups
+Sales Manager (The Strategist)
+•	Pipeline Blindness: Inaccurate revenue forecasting due to outdated or incomplete pipeline data
+•	Performance Ambiguity: Difficulty identifying where individual team members are stuck in the sales funnel
+•	Reporting Paralysis: Spending hours compiling manual reports instead of coaching and strategy
+Small Business Owner / Admin (The Stakeholder)
+•	Customer Churn: No centralized customer interaction history leading to poor retention
+•	Tech Stack Bloat: Paying for multiple disconnected tools that don’t integrate
+
+4. Product Vision
+The goal of this product is to provide an intuitive, unified SaaS CRM that enables growing sales teams to centralize customer interactions, automate repetitive follow-ups, and maximize revenue through real-time pipeline visibility.
+
