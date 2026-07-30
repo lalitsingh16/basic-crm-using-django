@@ -38,7 +38,7 @@ Django-CRM/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/django-crm.git
+   git clone https://github.com/lalitsingh16/basic-crm-using-django
    ```
 
 2. Navigate to the project directory:
