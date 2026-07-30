@@ -1,7 +1,4 @@
 # basic-crm-using-django
-Here’s a **simple and clean GitHub README** you can use for your Django CRM project:
-
----
 
 # Django CRM System
 
